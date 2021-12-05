@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Roboto&display=swap');
+
+
+.andycarousel {
+    max-height: 400px;
+    width: auto;
+
+    overflow: hidden;
+}
+
+.h2aq, .content {
+    font-family: 'Noto Sans', sans-serif;
+
+    letter-spacing: 0.2rem;
+    font-size: 1.7rem;
+}
+
+.content {
+    margin-right: 2rem;
+    padding: 0 2rem;
+    font-size: 1.2rem;
+}
+
+.contentsm {
+    font-family: 'Abel', cursive;
+    font-size: 1.2rem;
+    /* letter-spacing: 0.2rem; */
+}
+
+.titleaq {
+    display: flex;
+    align-items: center;  
+    justify-content: center;
+    color: #333333;
+    text-shadow: 2px 2px 0px #FFFFFF, 5px 4px 0px rgba(0,0,0,0.15);
+}
+
+.img-thumbnail {
+    max-width: 150px;
+    max-height: 150px;
+}
