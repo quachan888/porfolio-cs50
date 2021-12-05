@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Abel&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Fuzzy+Bubbles:wght@700&family=Roboto&display=swap');
 
 
 .andycarousel {
@@ -38,4 +38,14 @@
 .img-thumbnail {
     max-width: 150px;
     max-height: 150px;
+}
+
+.careerimg {
+    max-height: 400px;
+}
+
+#typewriter {
+    font-weight: 700;
+    font-family: 'Fuzzy Bubbles', cursive;
+    letter-spacing: .2rem;
 }
